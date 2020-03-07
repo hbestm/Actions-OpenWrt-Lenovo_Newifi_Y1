@@ -1,6 +1,6 @@
 # OpenWrt firmware for Lenovo Newifi Y1
 
-Auto build OpenWrt firmware for Lenovo Newifi Y1 via GitHub Actions
+Auto build OpenWrt firmware for Lenovo Newifi Y1 via GitHub Actions (Modified from [P3TERX/OpenWrt-Newifi_D2](https://github.com/P3TERX/OpenWrt-Newifi_D2))
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/moekoritsu/Actions-OpenWrt-Lenovo_Newifi_Y1?style=for-the-badge&label=Download)](https://github.com/moekoritsu/Actions-OpenWrt-Lenovo_Newifi_Y1/releases/latest)
 
